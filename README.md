@@ -28,5 +28,5 @@ I focus on building scalable applications and reliable SMTP delivery systems.
 
 ## 📫 Get In Touch
 - 🌐 Website: [Personal Blogs](https://zulfianto.com)  
-- 💼 LinkedIn: [linkedin.com/in/fian](https://linkedin.com/in/zulfianto)  
+- 💼 LinkedIn: [linkedin.com/in/zulfianto](https://linkedin.com/in/zulfianto)  
 - ✉️ Email: tanya@zulfianto.com 
