@@ -13,7 +13,7 @@
 
 </div>
 
-I run **CV. ELQO DUTA MANDIRI** as a freelance SysAdmin/DevOps and full‑stack builder, designing and operating **self-hosted SaaS products** end to end — from server provisioning and email deliverability up to the product UI. Most of what I ship lives under the **"Jow" product family** below.
+I run **CV. ELQO DUTA MANDIRI** as a freelance SysAdmin/DevOps and full‑stack builder, designing and operating several **independent self-hosted products** end to end — email infrastructure, identity/SSO, growth tooling, and diagnostic utilities — from server provisioning up to the product UI.
 
 ---
 
@@ -22,12 +22,19 @@ I run **CV. ELQO DUTA MANDIRI** as a freelance SysAdmin/DevOps and full‑stack 
 | Project | What it does | Stack |
 |---|---|---|
 | 📧 **[JowMail](https://jowmail.com)** | Self-hosted email marketing platform — campaign builder, subscriber/list management, CSV import, queued bulk sending with automatic retry, open/click tracking | Next.js · TypeScript · Postal Mail Server · BullMQ · Redis |
+| ✉️ **[SMTPku.com](https://smtpku.com)** | Dedicated SMTP delivery service — deliverability monitoring, bounce/complaint handling, SPF/DKIM/DMARC setup | PowerMTA · KumoMTA · PHP |
+| 🔐 **[Aksesmaster SSO](https://sso.aksesmaster.com)** | Centralized OAuth2 SSO provider, with a framework-agnostic [PHP client SDK](https://github.com/fianbiasa/sso-client) (Composer package, Laravel auto-discovery) | PHP · OAuth2 |
 | 🛒 **[JowShop](https://github.com/fianbiasa/jowshop)** | Single-tenant sales funnel platform — salespage, checkout, order bump/upsell/downsell, shipping & payment integration | Laravel 12 · Inertia · RajaOngkir/Biteship · Duitku |
 | 🩺 **[akusehat](https://github.com/fianbiasa/akusehat)** | AI-assisted health coaching SaaS — hybrid rule engine + knowledge base + AI, AI reasons over structured JSON only, never renders UI directly | Laravel 12 · Inertia · React · Tailwind |
-| 🌐 **[Network Tools](https://tools.jowhost.com)** | 20+ free DNS, SSL/TLS, and email-security diagnostic tools for domain intelligence | PHP · JavaScript |
-| ✉️ **[SMTPku.com](https://smtpku.com)** | Dedicated SMTP delivery service — deliverability monitoring, bounce/complaint handling, SPF/DKIM/DMARC setup | PowerMTA · KumoMTA · PHP |
 | 💼 **[Hiring.id](https://hiring.id)** | Job board connecting employers and job seekers across Indonesia | Laravel · MySQL |
+| 🌐 **[Network Tools](https://tools.jowhost.com)** | 20+ free DNS, SSL/TLS, and email-security diagnostic tools for domain intelligence | PHP · JavaScript |
+| 🧵 **[Threads Viral Finder](https://github.com/fianbiasa/threads-viral-finder-support)** | Browser extension that finds and filters Threads posts by likes/replies/reposts/quotes — reads data via your own logged-in session, 100% local storage, no server tracking | JavaScript · Chrome Extension |
 | 🛡️ **[ghost-ws](https://github.com/fianbiasa/ghost-ws)** | Heuristic web security scanner for recon and early-stage security audits (headers, CORS, TLS, form/CSRF indicators) | Python |
+
+### 🧩 Other Projects
+
+- **[rsg-inventory](https://github.com/fianbiasa/rsg-inventory)** — Inventory system for RedM roleplay servers, converted and optimized from qb-inventory for RSG Core & ox_lib (Lua, actively versioned, v2.6.3)
+- **[menyanyah](https://github.com/fianbiasa/menyanyah)** — Podcast website that auto-syncs episodes from a YouTube channel
 
 ---
 
