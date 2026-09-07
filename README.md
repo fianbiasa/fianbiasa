@@ -1,128 +1,75 @@
+<div align="center">
+
 # Hi, I'm Fian 👋
 
-**Full-Stack Developer** | **Email Infrastructure Engineer** | **Software Architect**
+### Full-Stack Developer · Email Infrastructure Engineer · Freelance SysAdmin & DevOps
 
-I specialize in building **scalable web applications** and **high-performance email delivery systems**.  
-Passionate about clean code, automation, and solving complex technical challenges.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=560&lines=Building+self-hosted+SaaS+products+in+Indonesia;Email+delivery+%2F+SMTP+infrastructure+specialist;Laravel+%C2%B7+Next.js+%C2%B7+Postal+%C2%B7+Docker;Currently+shipping+the+%22Jow%22+product+family" alt="Typing SVG" />
 
----
+[![Website](https://img.shields.io/badge/zulfianto.com-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://zulfianto.com)
+[![Location](https://img.shields.io/badge/Indonesia-000000?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Company](https://img.shields.io/badge/CV.%20ELQO%20DUTA%20MANDIRI-4A4A4A?style=flat-square&logo=briefcase&logoColor=white)](#)
+[![Open to work](https://img.shields.io/badge/Open%20to%20freelance%20work-2ea44f?style=flat-square)](mailto:tanya@zulfianto.com)
 
-## 💼 What I Do
+</div>
 
-🎯 **Email Infrastructure**
-- Building and optimizing SMTP delivery systems
-- PowerMTA & KumoMTA configuration and tuning
-- Email deliverability optimization (SPF, DKIM, DMARC)
-- Bounce handling and suppression list management
-- High-volume email sending infrastructure
-
-🚀 **Full-Stack Development**
-- Enterprise web applications with Laravel & Next.js
-- Real-time dashboards and analytics
-- API development and integration
-- Database optimization and query tuning
-- Microservices architecture
-
-⚙️ **DevOps & Infrastructure**
-- Linux server administration
-- Docker containerization
-- CI/CD pipelines
-- Nginx & Apache configuration
-- Performance monitoring and optimization
+I run **CV. ELQO DUTA MANDIRI** as a freelance SysAdmin/DevOps and full‑stack builder, designing and operating **self-hosted SaaS products** end to end — from server provisioning and email deliverability up to the product UI. Most of what I ship lives under the **"Jow" product family** below.
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 📧 Email Marketing & Infrastructure
+| Project | What it does | Stack |
+|---|---|---|
+| 📧 **[JowMail](https://jowmail.com)** | Self-hosted email marketing platform — campaign builder, subscriber/list management, CSV import, queued bulk sending with automatic retry, open/click tracking | Next.js · TypeScript · Postal Mail Server · BullMQ · Redis |
+| 🛒 **[JowShop](https://github.com/fianbiasa/jowshop)** | Single-tenant sales funnel platform — salespage, checkout, order bump/upsell/downsell, shipping & payment integration | Laravel 12 · Inertia · RajaOngkir/Biteship · Duitku |
+| 🩺 **[akusehat](https://github.com/fianbiasa/akusehat)** | AI-assisted health coaching SaaS — hybrid rule engine + knowledge base + AI, AI reasons over structured JSON only, never renders UI directly | Laravel 12 · Inertia · React · Tailwind |
+| 🌐 **[Network Tools](https://tools.jowhost.com)** | 20+ free DNS, SSL/TLS, and email-security diagnostic tools for domain intelligence | PHP · JavaScript |
+| ✉️ **[SMTPku.com](https://smtpku.com)** | Dedicated SMTP delivery service — deliverability monitoring, bounce/complaint handling, SPF/DKIM/DMARC setup | PowerMTA · KumoMTA · PHP |
+| 💼 **[Hiring.id](https://hiring.id)** | Job board connecting employers and job seekers across Indonesia | Laravel · MySQL |
+| 🛡️ **[ghost-ws](https://github.com/fianbiasa/ghost-ws)** | Heuristic web security scanner for recon and early-stage security audits (headers, CORS, TLS, form/CSRF indicators) | Python |
 
-**[JowMail](https://jowmail.com)** - Email Marketing Platform  
-Professional email marketing platform with advanced features:
-- ✅ Campaign management with drag-and-drop editor
-- ✅ Subscriber segmentation and list management
-- ✅ Autoresponder sequences
-- ✅ Real-time analytics (open rate, click rate, bounces)
-- ✅ PowerMTA integration for high-volume sending
-- ✅ Email tracking (opens & clicks)
-- ✅ Multi-user support with role-based access
-- **Tech:** PHP, MySQL, Bootstrap, Chart.js, PowerMTA
+---
 
-**[SMTPku.com](https://smtpku.com)** - SMTP & Email Delivery Platform  
-Enterprise-grade SMTP service for reliable email delivery:
-- ✅ Dedicated SMTP servers
-- ✅ Real-time delivery monitoring
-- ✅ Bounce and complaint handling
-- ✅ API integration
-- ✅ Custom domain setup (SPF, DKIM, DMARC)
-- **Tech:** PowerMTA, KumoMTA, PHP, MySQL
+## 💼 What I Do
 
-### 💼 Business Applications
-
-**[Hiring.id](https://hiring.id)** - Job Seeker Platform  
-Modern job board connecting employers and job seekers:
-- ✅ Job posting and search
-- ✅ Applicant tracking system
-- ✅ Resume builder
-- ✅ Company profiles
-- ✅ Application management
-- **Tech:** Laravel, MySQL, Bootstrap
-
-### 🛠️ Other Projects
-
-**Email Template System**
-- Drag-and-drop email builder
-- Responsive email templates
-- Variable/tag system for personalization
-- Template library management
-
-**Broadcast Email System**
-- Queue-based email sending
-- Batch processing with progress tracking
-- Failed email retry mechanism
-- Real-time sending statistics
-
-**CSV Import/Export System**
-- Bulk subscriber import
-- Data validation and sanitization
-- Duplicate detection
-- Progress tracking for large files
+- **Email infrastructure** — SMTP delivery pipelines, Postal/PowerMTA/KumoMTA tuning, SPF/DKIM/DMARC, bounce & suppression handling, IP warming and sender reputation
+- **Full-stack development** — Laravel + Inertia/React on the backend side, Next.js/TypeScript on the frontend, queue-driven background processing with Redis/BullMQ
+- **DevOps** — Linux server administration, Docker, Nginx, CI/CD, performance monitoring and query optimization
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### Frameworks & Libraries
+**Frameworks**
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Inertia](https://img.shields.io/badge/-Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Email Infrastructure
+**Email Infrastructure**
+![Postal](https://img.shields.io/badge/-Postal-2E86AB?style=flat-square&logoColor=white)
 ![PowerMTA](https://img.shields.io/badge/-PowerMTA-FF6600?style=flat-square&logoColor=white)
 ![KumoMTA](https://img.shields.io/badge/-KumoMTA-00A4EF?style=flat-square&logoColor=white)
-![Postfix](https://img.shields.io/badge/-Postfix-CC0000?style=flat-square&logoColor=white)
-![PHPMailer](https://img.shields.io/badge/-PHPMailer-2C8EBB?style=flat-square&logoColor=white)
 
-### DevOps & Tools
+**Data & Queues**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-DC382D?style=flat-square&logoColor=white)
+
+**Infra & Tools**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -138,41 +85,11 @@ Modern job board connecting employers and job seekers:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fianbiasa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-## 🎯 Recent Focus
-
-- 🔧 Building scalable email marketing automation
-- 📊 Optimizing database queries for high-traffic applications
-- 🚀 Implementing PowerMTA API integration
-- 🎨 Creating responsive email templates
-- 📈 Developing real-time analytics dashboards
-- 🔐 Enhancing application security and best practices
-
----
-
-## 💡 Skills & Expertise
-
-### Email Deliverability
-- SPF, DKIM, DMARC configuration
-- IP warming strategies
-- Bounce handling and feedback loops
-- Sender reputation management
-- ISP compliance (Gmail, Yahoo, Outlook)
-
-### Performance Optimization
-- Database query optimization
-- Caching strategies (Redis, Memcached)
-- Code profiling and debugging
-- Server resource management
-- Load balancing and scaling
-
-### Security
-- SQL injection prevention
-- XSS and CSRF protection
-- Secure authentication (sessions, tokens)
-- Data encryption
-- API security best practices
+<p align="center">
+  <a href="https://github.com/fianbiasa">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fianbiasa&theme=tokyo-night" alt="Fian's github activity graph" />
+  </a>
+</p>
 
 ---
 
@@ -188,37 +105,15 @@ Modern job board connecting employers and job seekers:
   <a href="mailto:tanya@zulfianto.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/fianbiasa">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://twitter.com/fianbiasa">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🏆 Open Source Contributions
-
-I believe in giving back to the community. Here are some areas I'm interested in contributing:
-- 📧 Email marketing and automation tools
-- 🚀 Performance optimization libraries
-- 🔧 Developer utilities and scripts
-- 📚 Documentation and tutorials
-
----
-
-## 📈 Activity Graph
-
-[![Fian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fianbiasa&theme=tokyo-night)](https://github.com/fianbiasa)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fianbiasa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 </p>
-
----
-
-⭐️ From [fianbiasa](https://github.com/fianbiasa)
